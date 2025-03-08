@@ -26,3 +26,4 @@ scrape_configs:
   static_configs:
   - targets:
     - app-forum-api:8080
+

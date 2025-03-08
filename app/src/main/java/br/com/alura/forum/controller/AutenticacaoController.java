@@ -32,7 +32,6 @@ public class AutenticacaoController {
     	authUserSuccess = Counter.builder("auth_user_success")
             .description("usuarios autenticados")
             .register(registry);
-    	
     	authUserErrors = Counter.builder("auth_user_error")
                 .description("erros de login")
                 .register(registry);

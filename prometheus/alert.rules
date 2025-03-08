@@ -26,3 +26,4 @@ groups:
       title: 'ERRO 500'
       summary: 'Erro 500 acima de 1% no último minuto.'
       description: 'API forum esta com taxa de erros 500 esta acima de 1% no último minuto'
+
